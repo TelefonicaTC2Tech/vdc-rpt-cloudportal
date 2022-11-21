@@ -33,7 +33,7 @@ Dicho script tiene una sección inicial con las siguientes variables:
 -	` $rptMetadataUrl` :	_URL donde se ofrece el metadato_
 -	` $NTDSDomain` :	_Dominio del AD_
 -	` $mfaGroup` :	_Grupo del AD correspondiente con el MFA_
--	` $mfaGroupSID` :	_SID obtenido en la sección anterior_
+-	` $mfaGroupSID` :	_SID obtenido en la sección 1_
 
 3.	Una vez rellenados los campos correspondientes, se guardará el archivo y mediante powershell, con permisos de administrador, se ejecutará el script.
 ```powerhell

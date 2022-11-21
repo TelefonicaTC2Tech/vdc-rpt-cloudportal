@@ -16,8 +16,8 @@ Create-CloudPortalRpt.ps1
 
 ## Ejecución
 
-1.	Como paso inicial es necesario obtener el SID del grupo “GR_MFA_ENABLED”. 
-Para ello se deberá conectar con un usuario de dominio al Active Directory y lanzar el siguiente comando:
+1.	Como paso inicial será necesario obtener el SID del grupo “GR_MFA_ENABLED”. 
+Para ello se deberá conectar con un usuario de dominio a la VM de Active Directory y lanzar el siguiente comando:
 ```powerhell
 Get-ADGroup -Filter * | Where Name -eq GR_MFA_ENABLED | Select-Object -Property SID
 ```

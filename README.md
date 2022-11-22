@@ -16,7 +16,7 @@ El presente desarrollo se compone de dos ficheros. Ambos ficheros deberán estar
 
 - **Create-CloudPortalRpt.ps1** : _Script en powershell para la creacion de la RPT_
 
-- claimrules.txt : _fichero txt que contiene las claims necesarias durante la creación de la RPT_
+- **claimrules.txt** : _fichero txt que contiene las claims necesarias durante la creación de la RPT_
 
 ## Ejecución
 

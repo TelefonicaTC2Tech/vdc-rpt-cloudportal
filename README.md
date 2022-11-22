@@ -14,9 +14,9 @@ Powershell
 
 El presente desarrollo se compone de dos ficheros. Ambos ficheros deberán estar en el mismo directorio:
 
-- Create-CloudPortalRpt.ps1
+- Create-CloudPortalRpt.ps1 : _Nombre de la RPT_
 
-- claimrules.txt
+- claimrules.txt : _Nombre de la RPT_
 
 ## Ejecución
 

@@ -1,10 +1,10 @@
 ﻿#Parametros entrada
 
-$rptName        = "ES_CLOUDPORTAL_TELEFONICATECH_COM"
-$rptMetadataUrl = "https://des.es.cloudportal.telefonicatech.com/?morequest=metadata"
-$NTDSDomain     = "VD2"
+$rptName        = "XX_CLOUDPORTAL_TELEFONICATECH_COM"
+$rptMetadataUrl = "https://XX.cloudportal.telefonicatech.com/?morequest=metadata"
+$NTDSDomain     = ""
 $mfaGroup       = "GR_MFA_ENABLED"
-$mfaGroupSID	= "S-1-5-21-2388592060-2084579570-450829506-7105"
+$mfaGroupSID	  = ""
 
 
 

@@ -13,6 +13,7 @@ Powershell
 ## Ficheros
 
 Create-CloudPortalRpt.ps1
+claimrules.txt
 
 ## Ejecución
 

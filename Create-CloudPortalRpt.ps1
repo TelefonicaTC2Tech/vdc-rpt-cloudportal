@@ -4,7 +4,7 @@ $rptName        = "XX_CLOUDPORTAL_TELEFONICATECH_COM"
 $rptMetadataUrl = "https://XX.cloudportal.telefonicatech.com/?morequest=metadata"
 $NTDSDomain     = ""
 $mfaGroup       = "GR_MFA_ENABLED"
-$mfaGroupSID	  = ""
+$mfaGroupSID	 = ""
 
 
 
